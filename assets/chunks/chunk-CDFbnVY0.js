@@ -1,0 +1,1 @@
+import{a as e,i as t,n,o as r,r as i,s as a,t as o}from"./chunk-DY2Omhri.js";i();export{o as Matrix,n as Quaternion,i as RegisterMathVector,t as TmpVectors,e as Vector2,r as Vector3,a as Vector4};

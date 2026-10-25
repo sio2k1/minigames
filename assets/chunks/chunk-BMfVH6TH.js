@@ -1,0 +1,1 @@
+import{i as e,n as t,r as n,t as r}from"./chunk-BN2ztYb6.js";n();export{r as Color3,t as Color4,n as RegisterMathColor,e as TmpColors};
